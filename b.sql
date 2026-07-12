@@ -1,0 +1,1 @@
+select * from d92 where roll==100;
